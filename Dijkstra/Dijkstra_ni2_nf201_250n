@@ -1,0 +1,21 @@
+digraph {
+	201 [label="Nodo actual: 201
+Nodo inicial: 2
+WEIGHT (54)"]
+	4 [label="Nodo actual: 4
+Nodo inicial: 2
+WEIGHT (52)"]
+	111 [label="Nodo actual: 111
+Nodo inicial: 2
+WEIGHT (34)"]
+	206 [label="Nodo actual: 206
+Nodo inicial: 2
+WEIGHT (4)"]
+	2 [label="Nodo actual: 2
+Nodo inicial: 2
+WEIGHT (0)"]
+	4 -> 201
+	111 -> 4
+	206 -> 111
+	2 -> 206
+}

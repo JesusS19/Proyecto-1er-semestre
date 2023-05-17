@@ -1,0 +1,25 @@
+digraph {
+	57 [label="Nodo actual: 57
+Nodo inicial: 13
+WEIGHT (91)"]
+	115 [label="Nodo actual: 115
+Nodo inicial: 13
+WEIGHT (46)"]
+	186 [label="Nodo actual: 186
+Nodo inicial: 13
+WEIGHT (45)"]
+	53 [label="Nodo actual: 53
+Nodo inicial: 13
+WEIGHT (25)"]
+	218 [label="Nodo actual: 218
+Nodo inicial: 13
+WEIGHT (9)"]
+	13 [label="Nodo actual: 13
+Nodo inicial: 13
+WEIGHT (0)"]
+	115 -> 57
+	186 -> 115
+	53 -> 186
+	218 -> 53
+	13 -> 218
+}

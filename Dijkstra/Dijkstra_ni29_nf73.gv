@@ -1,0 +1,41 @@
+digraph {
+	73 [label="Nodo actual: 73
+Nodo inicial: 29
+WEIGHT (65)"]
+	5 [label="Nodo actual: 5
+Nodo inicial: 29
+WEIGHT (50)"]
+	74 [label="Nodo actual: 74
+Nodo inicial: 29
+WEIGHT (45)"]
+	31 [label="Nodo actual: 31
+Nodo inicial: 29
+WEIGHT (44)"]
+	11 [label="Nodo actual: 11
+Nodo inicial: 29
+WEIGHT (35)"]
+	52 [label="Nodo actual: 52
+Nodo inicial: 29
+WEIGHT (30)"]
+	1 [label="Nodo actual: 1
+Nodo inicial: 29
+WEIGHT (25)"]
+	53 [label="Nodo actual: 53
+Nodo inicial: 29
+WEIGHT (20)"]
+	67 [label="Nodo actual: 67
+Nodo inicial: 29
+WEIGHT (12)"]
+	29 [label="Nodo actual: 29
+Nodo inicial: 29
+WEIGHT (0)"]
+	5 -> 73
+	74 -> 5
+	31 -> 74
+	11 -> 31
+	52 -> 11
+	1 -> 52
+	53 -> 1
+	67 -> 53
+	29 -> 67
+}
